@@ -3,6 +3,7 @@
 	"description": "Add a description for my project, FreeCodeCamp",
 	"keywords": [ "thridtask", "codestudent", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
